@@ -2,10 +2,10 @@
 
 **Description**
 
-This is the repository for a Python 4 Data Analytics course I took at the end of 2020. Here you will find all lessons, exercises, analyses, and my assessments, and projects. 
+This is the repository for teh course 'Python 4 Data Analytics' I took at the end of 2020. Here you will find all lessons, exercises, analyses, my assessments, and projects. 
 
 ![CelebratingFirstRepository](https://media.giphy.com/media/KYElw07kzDspaBOwf9/giphy.gif)
-Celebration of my first repository
+
 
 ## Course outline
 

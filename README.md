@@ -6,7 +6,6 @@ This is the repository for teh course 'Python 4 Data Analytics' I took at the en
 
 ![CelebratingFirstRepository](https://media.giphy.com/media/KYElw07kzDspaBOwf9/giphy.gif)
 
-This is a tests
 
 ## Course outline
 
